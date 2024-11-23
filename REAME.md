@@ -20,7 +20,7 @@ You can see that criterion print a lot of thing, that the part that we will cust
 
 - Print a message like **`Tests Results`** before any test start.
 
-Here is an **example** of result
+Here is an **example** of result  
 ![image](https://github.com/user-attachments/assets/ee14fb02-ad21-4494-97ea-2efdc30dad2e)  
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
@@ -29,8 +29,8 @@ It can look like this, but you are totally free to print any thing that you thin
 
 - Print a message like **`All Tests End.`** after all test end.
 
-Here is an **example** of result
-![image](https://github.com/user-attachments/assets/41c00eca-ea26-4781-84aa-a163e4bee251)
+Here is an **example** of result  
+![image](https://github.com/user-attachments/assets/41c00eca-ea26-4781-84aa-a163e4bee251)  
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
 ## ex03 - Print a message **after every** test end
@@ -38,8 +38,8 @@ It can look like this, but you are totally free to print any thing that you thin
 
 - Print a message like **`Test end`** after all test end.
 
-Here is an **example** of result (there is ~50-60 line, the image is cut)
-![image](https://github.com/user-attachments/assets/7e2a29a2-f07a-4f8a-826b-d16a25914394)
+Here is an **example** of result (there is ~50-60 line, the image is cut)   
+![image](https://github.com/user-attachments/assets/7e2a29a2-f07a-4f8a-826b-d16a25914394)   
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
 ## Result example
