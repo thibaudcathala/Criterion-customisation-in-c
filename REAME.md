@@ -13,5 +13,5 @@ The documentation will help you to complete each task:
 
 ![image](https://github.com/user-attachments/assets/f32499d0-ddc2-4960-8e91-82081511e904)
 
-![image](https://github.com/user-attachments/assets/46b2c646-b269-4fb6-bef1-ce743ea1d33d)
+![image](https://github.com/user-attachments/assets/f07f4731-7dc0-4606-b637-9c670cbc49c5)
 
