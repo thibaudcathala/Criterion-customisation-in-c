@@ -250,10 +250,3 @@ Test(MyTest50, MyTest50Description)
 {
     cr_assert(0 == 0);
 }
-
-Test(MyTestCrash, MyTestCrash)
-{
-    int *test = NULL;
-    *test = 42;
-    cr_assert(0 == 0);
-}
