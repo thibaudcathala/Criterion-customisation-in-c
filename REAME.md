@@ -6,8 +6,16 @@ The documentation will help you to complete each task:
 - PDF: [criterion-readthedocs-io-en-stable.pdf](https://github.com/user-attachments/files/17882077/criterion-readthedocs-io-en-stable.pdf)
 
 ## ex00
+- Clone this repository
+- Go at the root of this repository
+- Create a new c filewith a name like "test_interface.c"
+- Compile the given my_test.c and your test_interface.c (that is actually empty). `gcc -o my_beautiful_test my_test.c test_interface.c -lcriterion`
+- Run the generated binary, it should output somthing like this:
+![image](https://github.com/user-attachments/assets/9e1af1bb-0610-42c4-995d-3b8eaf6dbe31)
+You can see that criterion print a lot of thing, that the part that we will customise.
+- Now run you program with as argument `--verbose=3`, it should print nothing, it's what we want, we will go from this to print our own message.
 
-
+## ex01
 
 ## Result example
 
