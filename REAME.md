@@ -7,10 +7,11 @@ The documentation will help you to complete each task:
 
 ## ex00
 
+
+
 ## Result example
 
-![image](https://github.com/user-attachments/assets/756331dc-09ac-4166-af15-0e09aa771bf3)
-
-
-
 ![image](https://github.com/user-attachments/assets/f32499d0-ddc2-4960-8e91-82081511e904)
+
+![image](https://github.com/user-attachments/assets/46b2c646-b269-4fb6-bef1-ce743ea1d33d)
+
