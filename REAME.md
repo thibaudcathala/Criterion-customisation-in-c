@@ -42,12 +42,39 @@ Here is an **example** of result (there is ~50-60 line, the image is cut)
 ![image](https://github.com/user-attachments/assets/7e2a29a2-f07a-4f8a-826b-d16a25914394)   
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
-## ex04 - Print test result
+## ex04 - Print test status
 #### https://criterion.readthedocs.io/en/stable/hooks.html
 
-- Modify the message the you print after every test end to now display the test status: PASS or FAIL. (If you don't know where to have this information: https://criterion.readthedocs.io/en/stable/hooks.html)
+- Modify the message that you print after every test end to now display the test status: PASS or FAIL. (If you don't know where to have this information: https://criterion.readthedocs.io/en/stable/hooks.html)
+- You can add as mush information as you want: test duration, test name, test description, etc. Also think of what you want to print when a test fail: test file, assertion line, test that fail, test name, test description, etc.
 
-## Result example
+Here is an **example** of result (the image is cut)    
+![image](https://github.com/user-attachments/assets/042fe38d-af7b-4600-963a-e5f79385925d)  
+It can look like this, but you are totally free to print any thing that you think is revelant.
+
+## ex05 - Print test summary
+#### https://criterion.readthedocs.io/en/stable/hooks.html
+
+- Modify the message that you print at the end of all test to now print a summary of all test result, it can contain: number of test, number of passing test, number of failing test, etc. You can add as mush information as you want.
+
+Here is an **example** of result (the image is cut)  
+![image](https://github.com/user-attachments/assets/a7d0929b-99d1-42cf-aa86-6688477e0318)  
+It can look like this, but you are totally free to print any thing that you think is revelant.
+
+## ex06 - Print a progress bar
+
+- At the end of all test display a progress. You can add color to the progress bar like: red if passing test is < 25%, yellow if passing test is < 75% and green if passing test is > 75%.
+
+Here is an **example** of result (the image is cut)   
+![image](https://github.com/user-attachments/assets/81aaacdd-4019-4181-aff8-a41fbc8b437c)   
+It can look like this, but you are totally free to print any thing that you think is revelant.
+Here is the character that I have used for the progress bar: `█` and `▒`.
+
+## ex07/Bonus - Customise as you want
+
+- Now that you now how to manipulate the data structure used in criterion, you are free to add as mush new feature as you want.
+
+## End Result example
 
 ![image](https://github.com/user-attachments/assets/f32499d0-ddc2-4960-8e91-82081511e904)
 
