@@ -15,11 +15,25 @@ The documentation will help you to complete each task:
 You can see that criterion print a lot of thing, that the part that we will customise.
 - Now run you program with as argument `--verbose=3`, it should print nothing, it's what we want, we will go from this to print our own message.
 
-## ex01
+## ex01 - Print a message **before all** test start
+#### https://criterion.readthedocs.io/en/stable/hooks.html
+
+Print a message like **`Tests Results`** before any test start.
+
+#### Here is an *example* of result
+![image](https://github.com/user-attachments/assets/ee14fb02-ad21-4494-97ea-2efdc30dad2e)  
+It can look like this, but you are totally free to print any thing that you think is revelant.
+
+## ex02 - Print a message **after all** test end
+#### https://criterion.readthedocs.io/en/stable/hooks.html
+
+
+
+## ex03 - Print a message **after every** test end
+#### https://criterion.readthedocs.io/en/stable/hooks.html
 
 ## Result example
 
 ![image](https://github.com/user-attachments/assets/f32499d0-ddc2-4960-8e91-82081511e904)
 
 ![image](https://github.com/user-attachments/assets/f07f4731-7dc0-4606-b637-9c670cbc49c5)
-
