@@ -43,8 +43,9 @@ Here is an **example** of result (there is ~50-60 line, the image is cut)
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
 ## ex04 - Print test result
+#### https://criterion.readthedocs.io/en/stable/hooks.html
 
-- Modify the message the you print after every test end to now display the test status: PASS or FAIL.
+- Modify the message the you print after every test end to now display the test status: PASS or FAIL. (If you don't know where to have this information: https://criterion.readthedocs.io/en/stable/hooks.html)
 
 ## Result example
 
