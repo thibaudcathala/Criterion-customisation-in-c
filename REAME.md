@@ -18,7 +18,7 @@ You can see that criterion print a lot of thing, that the part that we will cust
 ## ex01 - Print a message **before all** test start
 #### https://criterion.readthedocs.io/en/stable/hooks.html
 
-- Print a message like **`Tests Results`** before any test start.
+- Print a message like **`Tests Results`** before any test start. (you don't have to modify my_test.c to do this, read carefully the documentation)
 
 Here is an **example** of result  
 ![image](https://github.com/user-attachments/assets/ee14fb02-ad21-4494-97ea-2efdc30dad2e)  
@@ -27,7 +27,7 @@ It can look like this, but you are totally free to print any thing that you thin
 ## ex02 - Print a message **after all** test end
 #### https://criterion.readthedocs.io/en/stable/hooks.html
 
-- Print a message like **`All Tests End.`** after all test end.
+- Print a message like **`All Tests End.`** after all test end. (you don't have to modify my_test.c to do this, read carefully the documentation)
 
 Here is an **example** of result  
 ![image](https://github.com/user-attachments/assets/41c00eca-ea26-4781-84aa-a163e4bee251)  
@@ -36,11 +36,15 @@ It can look like this, but you are totally free to print any thing that you thin
 ## ex03 - Print a message **after every** test end
 #### https://criterion.readthedocs.io/en/stable/hooks.html
 
-- Print a message like **`Test end`** after all test end.
+- Print a message like **`Test end.`** after every test end. (you don't have to modify my_test.c to do this, read carefully the documentation)
 
 Here is an **example** of result (there is ~50-60 line, the image is cut)   
 ![image](https://github.com/user-attachments/assets/7e2a29a2-f07a-4f8a-826b-d16a25914394)   
 It can look like this, but you are totally free to print any thing that you think is revelant.
+
+## ex04 - Print test result
+
+- Modify the message the you print after every test end to now display the test status: PASS or FAIL.
 
 ## Result example
 
