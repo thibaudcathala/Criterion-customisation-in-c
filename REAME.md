@@ -20,7 +20,7 @@ You can see that criterion print a lot of thing, that the part that we will cust
 
 Print a message like **`Tests Results`** before any test start.
 
-#### Here is an *example* of result
+Here is an **example** of result
 ![image](https://github.com/user-attachments/assets/ee14fb02-ad21-4494-97ea-2efdc30dad2e)  
 It can look like this, but you are totally free to print any thing that you think is revelant.
 
